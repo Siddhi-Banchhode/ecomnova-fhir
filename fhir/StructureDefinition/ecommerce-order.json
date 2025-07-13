@@ -1,0 +1,7 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "ecommerce-order",
+  "description": "FHIR profile for standardized e-commerce order tracking.",
+  "status": "active",
+  "type": "Order"
+}

@@ -1,0 +1,11 @@
+{
+  "resourceType": "Observation",
+  "id": "InventoryObservation",
+  "status": "final",
+  "code": {
+    "coding": [{
+      "system": "https://ecomnova.ai/fhir/StructureDefinition/inventory-warehouse-observation",
+      "code": "inventory-warehouse-observation"
+    }]
+  }
+}

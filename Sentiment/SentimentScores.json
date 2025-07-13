@@ -1,0 +1,10 @@
+{
+  "resourceType": "Observation",
+  "id": "SentimentScores",
+  "code": {
+    "coding": [{
+      "system": "https://ecomnova.ai/fhir/StructureDefinition/ecommerce-sentiment",
+      "code": "ecommerce-sentiment"
+    }]
+  }
+}

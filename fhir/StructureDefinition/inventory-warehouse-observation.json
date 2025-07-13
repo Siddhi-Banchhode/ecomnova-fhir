@@ -1,0 +1,7 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "inventory-warehouse-observation",
+  "description": "Profile for inventory-related IoT warehouse observation.",
+  "status": "active",
+  "type": "Observation"
+}

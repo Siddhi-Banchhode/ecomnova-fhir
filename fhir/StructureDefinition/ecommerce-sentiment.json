@@ -1,0 +1,7 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "ecommerce-sentiment",
+  "description": "FHIR-style structure for sentiment analysis by product category.",
+  "status": "active",
+  "type": "Observation"
+}

@@ -1,0 +1,5 @@
+{
+  "codeSystem": "warehouse-location-id",
+  "values": ["WH-DE", "WH-FR", "WH-PL"],
+  "description": "Geographic warehouse codes."
+}

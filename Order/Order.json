@@ -1,0 +1,10 @@
+{
+  "resourceType": "Order",
+  "id": "Order",
+  "code": {
+    "coding": [{
+      "system": "https://ecomnova.ai/fhir/StructureDefinition/ecommerce-order",
+      "code": "ecommerce-order"
+    }]
+  }
+}
